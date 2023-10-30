@@ -1,0 +1,37 @@
+@charset "utf-8";
+.header {
+	width: 100%;
+	height: 50px;
+	text-align: right;
+	vertical-align: bottom;
+}
+.header ul{
+	list-style-type: none;
+	margin: 10 0 0;
+	padding: 0;
+}
+.header li{
+ display: inline;
+ padding: 15px;	
+}
+.main .main_img {
+	background-image: url(/home/n23031/Boxes/webextation/chap9/challenge/images/main.jpg);
+	background-size:cover;
+	width: 100%;
+	height: 400px;
+	margin: 0 0 10 0;
+}
+.main .jikosyokai{
+	width<div class=""/home/n23031/Boxes/webextation/chap9/challenge/images/main.jpg></div>: 100%;
+	text-align: center;
+}
+.jikosyokai_img{
+	background-image: url(/home/n23031/Boxes/webextation/chap9/challenge/images/neko.jpg);
+	width: 150px;
+	height: 150px;
+	background-size:cover;
+	margin: 0 auto;
+	border-radius:80px;	
+}
+
+
